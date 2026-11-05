@@ -46,9 +46,9 @@ When I'm away from the screen, I enjoy photography and videography.
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=devang-p12&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-p12&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
