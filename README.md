@@ -42,7 +42,6 @@ When I'm away from the screen, I enjoy photography and videography.
 
 **Tools:** Git, Docker, Postman, Linux
 
-### GitHub Activity
 
 ### GitHub Activity
 
