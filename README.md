@@ -1,9 +1,13 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://images5.alphacoders.com/140/thumb-1920-1406331.png"
-       width="100%"
-       alt="Vinland Saga banner" />
+  <img
+    src="https://images5.alphacoders.com/140/thumb-1920-1406331.png"
+    alt="Vinland Saga banner"
+    width="100%"
+    height="220"
+    style="object-fit: cover; object-position: center 40%;"
+  />
 </div>
 
 <h2>Hey, I'm Devang.</h2>
