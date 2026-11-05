@@ -2,11 +2,9 @@
 
 <div align="center">
   <img
-    src="https://images5.alphacoders.com/140/thumb-1920-1406331.png"
+    src="./assets/vinland-banner.png"
     alt="Vinland Saga banner"
     width="100%"
-    height="220"
-    style="object-fit: cover; object-position: center 40%;"
   />
 </div>
 
