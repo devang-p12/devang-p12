@@ -44,11 +44,13 @@ When I'm away from the screen, I enjoy photography and videography.
 
 ### GitHub Activity
 
+### GitHub Activity
+
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=devang-p12&show_icons=true&theme=transparent&hide_border=true&hide_title=true" />
+<img src="https://github-stats-extended.vercel.app/api?username=devang-p12&show_icons=true&theme=transparent&hide_border=true&hide_title=true" width="49%" />
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devang-p12&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=devang-p12&layout=compact&theme=transparent&hide_border=true" width="49%" />
 
 </div>
 
