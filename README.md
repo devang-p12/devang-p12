@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://images5.alphacoders.com/140/thumb-1920-1406331.png" width="100%" height="200" alt="Vinland Saga banner" />
+<div align="center">
+  <img src="https://images5.alphacoders.com/140/thumb-1920-1406331.png"
+       width="100%"
+       alt="Vinland Saga banner" />
+</div>
 
 <h2>Hey, I'm Devang.</h2>
 
