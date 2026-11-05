@@ -2,7 +2,7 @@
 
 <div align="center">
   <img
-    src="./assets/vinland-banner.png"
+    src="1406331 (Edited).png"
     alt="Vinland Saga banner"
     width="100%"
   />
